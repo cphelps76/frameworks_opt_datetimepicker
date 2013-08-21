@@ -24,7 +24,7 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/white" >
+        android:background="@color/circle_background" >
         <include
             layout="@layout/time_header_label"
             android:layout_width="match_parent"

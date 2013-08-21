@@ -32,7 +32,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dip"
             android:layout_weight="1"
-            android:background="@color/white" >
+            android:background="@color/circle_background" >
             <include
                 layout="@layout/time_header_label"
                 android:layout_width="match_parent"
@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
-            android:background="@color/white" >
+            android:background="@color/circle_background" >
             <Button
                 android:id="@+id/done_button"
                 style="?android:attr/buttonBarButtonStyle"
